@@ -1,0 +1,59 @@
+.speech{
+    color:black;
+    font-size: 14px;
+    font-style: initial;
+}
+
+
+  
+.direction{
+    font-size: 15px;
+    background-color: aqua;
+}
+
+.direction:hover {
+background-color: bisque;
+}
+
+
+.FRANC{
+    color:black;
+    font-size: 15px;
+    
+}
+
+.FIA{
+    color:black;
+    font-size: 15px;
+
+}
+
+.GIU{
+    color:black;
+    font-size: 15px;
+
+}
+
+.ANT{
+    color:black;
+    font-size: 15px;
+
+}
+
+.ALL{
+    color:black;
+    font-size: 15px;
+
+}
+
+.GIOR{
+    color:black;
+    font-size: 15px;
+
+}
+
+.VIT{
+    color:black;
+    font-size: 15px;
+
+}
