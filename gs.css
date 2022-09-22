@@ -97,7 +97,9 @@ tr:nth-child(even)
     text-shadow: 1px 4px 2px rgb(248, 6, 6);
 }
 i{
-    color:chartreuse
+    
+    color: black;
+    font-size: 100px !important;
 }
 ul.navbar-horizontal{
     margin: 35;
@@ -105,15 +107,15 @@ ul.navbar-horizontal{
 }
 ul.navbar-horizontal li{
     float: left;
-    background-color: blue;
+    background-color: rgb(224, 59, 224);
 }
 ul.navbar-horizontal a:hover{
-    background-color: red;
+    background-color: rgb(209, 237, 50);
 
 }
 ul.navbar-horizontal a{
     display: block;
-    padding: 1px;
+    padding: 18px;
     color: aliceblue;
     
 }
