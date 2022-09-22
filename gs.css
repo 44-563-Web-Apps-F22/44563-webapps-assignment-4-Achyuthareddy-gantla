@@ -1,59 +1,73 @@
-.speech{
-    color:black;
+.speech {
+    color: black;
     font-size: 14px;
     font-style: initial;
 }
 
-
-  
-.direction{
+.direction {
     font-size: 15px;
     background-color: aqua;
 }
 
 .direction:hover {
-background-color: bisque;
+    background-color: bisque;
 }
 
-
-.FRANC{
-    color:black;
+.FRANC {
+    color: black;
     font-size: 15px;
-    
 }
 
-.FIA{
-    color:black;
+.FIA {
+    color: black;
     font-size: 15px;
-
 }
 
-.GIU{
-    color:black;
+.GIU {
+    color: black;
     font-size: 15px;
-
 }
 
-.ANT{
-    color:black;
+.ANT {
+    color: black;
     font-size: 15px;
-
 }
 
-.ALL{
-    color:black;
+.ALL {
+    color: black;
     font-size: 15px;
 
 }
 
-.GIOR{
-    color:black;
+.GIOR {
+    color: black;
     font-size: 15px;
 
 }
 
-.VIT{
-    color:black;
+.VIT {
+    color: black;
     font-size: 15px;
 
 }
+
+.both{
+    color:black;
+    font-size: 15px;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    border: 2px solid;
+    margin: 35px 35px 25px 40px;
+    border-color: rgb(25, 139, 0);
+}
+
+th,
+td {
+    padding: 16px;
+}
+tr:nth-child(even) 
+{background-color: #304c92;}
