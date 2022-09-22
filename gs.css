@@ -72,3 +72,27 @@ td {
 tr:nth-child(even) 
 {background-color: #304c92;}
 
+.FRANC:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.FIA:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.GIU:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.ANT:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.ALL:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.GIOR:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.VIT:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
+.both:hover {
+    text-shadow: 1px 4px 2px rgb(248, 6, 6);
+}
